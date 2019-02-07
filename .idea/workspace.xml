@@ -3,17 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1c042abc-79b0-41f3-95c6-c13773f919ed" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.htaccess" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/images/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/favicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/images/lang-logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/lang-logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/stylesheets/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/stylesheets/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/views/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/views/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/views/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/views/index.twig" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/index.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/views/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/layout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/views/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/views/nav.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,11 +29,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/views/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="918">
+              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
             </state>
           </provider>
         </entry>
@@ -58,7 +47,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -99,12 +88,13 @@
         <option value="$PROJECT_DIR$/web/views/index.html" />
         <option value="$PROJECT_DIR$/web/views/index.php" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/docs/views/index.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="670" />
-    <option name="y" value="100" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="268" />
+    <option name="y" value="45" />
     <option name="width" value="1890" />
     <option name="height" value="1020" />
   </component>
@@ -154,7 +144,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549499279845</updated>
-      <workItem from="1549499280996" duration="7171000" />
+      <workItem from="1549499280996" duration="8082000" />
     </task>
     <task id="LOCAL-00001" summary="Project cloned.">
       <created>1549500236956</created>
@@ -184,23 +174,38 @@
       <option name="project" value="LOCAL" />
       <updated>1549507178246</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="folder changed to docs">
+      <created>1549507573162</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1549507573162</updated>
+    </task>
+    <task id="LOCAL-00006" summary="link added to the page">
+      <created>1549507705462</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1549507705462</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7171000" />
+    <option name="totallyTimeSpent" value="8082000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="447" y="67" width="1260" height="680" extended-state="0" />
+    <frame x="423" y="9" width="1260" height="680" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Messages" weight="0.36131388" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.29744527" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.29744527" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3283582" />
@@ -223,7 +228,9 @@
     <MESSAGE value="Text added, table added" />
     <MESSAGE value="php file added" />
     <MESSAGE value="heroku installed" />
-    <option name="LAST_COMMIT_MESSAGE" value="heroku installed" />
+    <MESSAGE value="folder changed to docs" />
+    <MESSAGE value="link added to the page" />
+    <option name="LAST_COMMIT_MESSAGE" value="link added to the page" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/docs/stylesheets/main.css">
@@ -250,13 +257,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/views/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/views/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -271,6 +271,13 @@
             <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/views/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
         </state>
       </provider>
     </entry>
